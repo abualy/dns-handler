@@ -1,0 +1,7 @@
+{
+    "dns" : {
+        "keys" : "/etc/bind/keys",
+        "ttl": "3600"
+        "server": "dns.test"
+    }
+}
